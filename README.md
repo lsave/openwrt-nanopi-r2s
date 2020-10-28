@@ -11,4 +11,3 @@
 - ipv4: 192.168.2.1
 - username: root
 - password: password
-
